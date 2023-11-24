@@ -1,0 +1,14 @@
+.time{
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    padding: 15px;
+    font-size: 2rem;
+    border-radius: 100%;
+    width: 15rem;
+    height: 15rem;
+}
+p{
+    text-align: center;
+    margin-top: 40%;
+}
